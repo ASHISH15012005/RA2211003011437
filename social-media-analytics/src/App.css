@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+}
+
+.MuiCard-root {
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.MuiTypography-h5 {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.MuiListItem-root {
+  border-bottom: 1px solid #eee;
+}
